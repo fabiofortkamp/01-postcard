@@ -1,45 +1,44 @@
 ---
 title: "Fábio P. Fortkamp"
-image: "sigridur.jpg"
+image: "social.jpg"
 links:
   - label: Resume
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/fpfortkamp/"
   - label: Blog
-    url: "https://medium.com/"
-  - label: SoundCloud
-    url: "https://soundcloud.com/"
+    url: "https://fpfortkamp.com/"
+  - label: Instagram
+    url: "https://instagram.com/fpfortkamp"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/fpfortkamp"
+  - label: GitHub
+    url: "https://github.com/fabiofortkamp"
 output:
   postcards::solana
 ---
  
 ## Bio
 
-Sigríður Björndotter is a musician, vocalist, and live entertainment consultant
-living in Buenos Aires, Argentina. Her writing has appeared in Rolling Stone,
-Billboard, and NME, and she is a frequent contributor to National Public Radio's 
-*All Songs Considered*. She has been raising Pembroke Welsh Corgis since the age
-of six, and she has collected Casio watches since the age of ten.
+I'm is a Research Engineer in the field of Heat Transfer, Thermodynamics and Refrigeration, with over 10 years of experience in the field. I'm mainly interested in how can we use modern computational tools such as Python, R, Machine Learning among others to solve practical Mechanical Engineering Problems.
 
 ## Education
 
-**INSEAD** | Fontainebleau, France
+**Federal University of Santa Catarina** | Florianópolis (SC), Brazil
 
-M.B.A. | August 2014 - June 2015
+Dr. Eng. | July 2014 - February 2019
 
-**The Juilliard School** | New York, NY
+**Federal University of Santa Catarina** | Florianópolis (SC), Brazil
 
-B.F.A. in Music Performance | August 2005 - May 2009
+M. Eng. | March 2012 - June 2014
+
+**Federal University of Santa Catarina** | Florianópolis (SC), Brazil
+
+Mechanical Engineer | May 2006 - March 2012
 
 ## Experience
 
-**Freelance** | Live Entertainment Consultant | August 2018 - Present
+**Polo - Research Laboratories for Emerging Technologies in Cooling and Thermophysics** | Research Engineer | October 2022 - Present
 
-**Cercle** | Producer | August 2018 - Present
+**Santa Catarina State University** | Adjunt Professor of Mechanical Engineer | February 2020 - September 2022
 
-**National Public Radio** | Producer | May 2015 - July 2018
+**Polo - Research Laboratories for Emerging Technologies in Cooling and Thermophysics** | Post-doctoral Researcher | February 2019 - January 2020
 
-**NME Magazine** | Editor | July 2014 - July 2016
-
-**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
